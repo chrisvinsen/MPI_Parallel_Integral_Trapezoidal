@@ -1,3 +1,3 @@
-# MPI_Parallel_Integral_Trapezoidal
+# MPI Parallel Integral Trapezoidal
 Program Parallel using MPI to solve the integral result of the trapezoidal method
 Written in C++
